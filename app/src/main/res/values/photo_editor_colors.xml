@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aviary_nav_divider_dark">@color/colorAccent</color>
+    <color name="aviary_nav_primary_color">@color/colorPrimary</color>
+    <color name="aviary_nav_secondary_color">@color/colorPrimaryDark</color>
+</resources>

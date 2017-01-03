@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="app_bar_height">240dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="text_margin">24dp</dimen>
+    <dimen name="textSize">24sp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="nested_image_margin">4dp</dimen>
+    <dimen name="image_width">250dp</dimen>
+    <dimen name="image_height">275dp</dimen>
+
+</resources>

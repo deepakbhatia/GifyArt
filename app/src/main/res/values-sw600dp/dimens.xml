@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="nested_image_margin">4dp</dimen>
+    <dimen name="image_width">150dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+
+</resources>

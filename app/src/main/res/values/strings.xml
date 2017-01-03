@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GifyArt</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+    </string>
+    <string name="facebook_app_id">1235731796456859</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="login_with_facebook">Login With Facebook</string>
+
+    <string name="clear_cache_menu">Clear Caches</string>
+    <string name="clear_cache_complete_toast">Caches have been cleared</string>
+    <string name="imageview_description">Image Thumbnail</string>
+    <string name="no_network_connection_toast">No network connection found</string>
+    <string name="action_make_gif">Gif</string>
+    <string name="action_add_collection">Add to Collection</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_collections_view">CollectionsView</string>
+    <string name="gifcreator">Create Gif or Add to Collection</string>
+    <string name="playgif">Play Gif</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_gif"
+        android:title="@string/action_make_gif"
+        android:icon="@drawable/ic_action_gif_file"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+    <item android:id="@+id/action_add_collection"
+        android:title="@string/action_add_collection"
+        android:icon="@drawable/ic_action_content_add_menu"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>
